@@ -6,7 +6,7 @@
 - Simple and user-friendly interface
 - Responsive design
 - Quick access to save sites
-- ## Technology
+- ## Technology Used
 - HTML
 - CSS
 - JavaScript
